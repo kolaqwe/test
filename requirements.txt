@@ -1,3 +1,2 @@
-Pcap.Net
-This project requires Pcap.Net: https://github.com/PcapDotNet/Pcap.Net
-something new
+Pcap.Net Changed
+This project requires Pcap.Net
